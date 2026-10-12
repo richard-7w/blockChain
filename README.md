@@ -10,5 +10,3 @@ $ make setup
 ```bash
 $ make chain
 ```
-
-[](assets/ex.png)
